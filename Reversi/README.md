@@ -18,3 +18,10 @@ Both players are the first mover and the latter mover respectively. And there ar
 ### Environment Requirement
 There is an interface for designing the chess board, instead of directly using CMD to operate, so a C Language<br>
 graphic kit is required. We install WinBGIm Graphics Library in Dev C++.
+
+### Execution
+- Reversi Menu<br>
+![image](https://github.com/Yawen2-1-1/C_Programming/blob/main/Reversi/Image/Reversi_menu.jpg)
+
+- Mode 4.<br>
+![image](https://github.com/Yawen2-1-1/C_Programming/blob/main/Reversi/Image/Reversi_board.jpg)
